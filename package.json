@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "electron-packager": "^15.2.0",
+    "nativefier": "^43.0.0",
+    "plist": "^3.0.1"
+  }
+}
