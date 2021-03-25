@@ -28,6 +28,10 @@ var options = {
   singleInstance: true,
   clearCache: false,
   tray: true,
+  inject: './darkscripts/background.js',
+  inject: './darkscripts/jquery.min.js',
+  inject: './darkscripts/theme_css.js',
+  inject: './darkscripts/toggle.js',
   fileDownloadOptions: {
     saveAs: true, // always show "Save As" dialog
   },

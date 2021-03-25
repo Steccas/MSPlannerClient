@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#https://github.com/nativefier/nativefier/issues/207
+
 if [ -z "$1" ]
   then
     echo "Please specify destination platform"
